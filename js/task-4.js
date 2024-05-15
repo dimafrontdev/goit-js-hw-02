@@ -5,7 +5,7 @@ const getShippingCost = country => {
     case 'China':
       price = 100;
       break;
-    case 'China':
+    case 'Chile':
       price = 250;
       break;
     case 'Australia':
